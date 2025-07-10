@@ -2,7 +2,7 @@
   "name": "net.narazaka.vrchat.pickup-broom",
   "version": "1.0.0",
   "displayName": "Pickup Broom",
-  "description": "Pickup Broom",
+  "description": "ホウキやモップ、デッキブラシ等を持つギミック",
   "author": {
     "name": "Narazaka",
     "url": "https://github.com/Narazaka"
@@ -11,8 +11,10 @@
   "type": "tool",
   "url" : "https://github.com/Narazaka/PickupBroom.git",
   "unity": "2022.3",
+  "documentationUrl": "https://github.com/Narazaka/PickupBroom#pickup-broom",
+  "changelogUrl": "https://github.com/Narazaka/PickupBroom#%E6%9B%B4%E6%96%B0%E5%B1%A5%E6%AD%B4",
   "vpmDependencies": {
-    "com.vrchat.avatars": ">=3.7.5",
-    "com.vrchat.worlds": ">=3.7.5"
+    "com.vrchat.avatars": ">=3.7.0",
+    "nadena.dev.modular-avatar": ">=1.5.0 <2.0.0-a"
   }
 }
