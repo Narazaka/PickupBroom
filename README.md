@@ -39,6 +39,8 @@ https://github.com/Narazaka/PickupBroom/releases/latest から `net.narazaka.vrc
 
 ## 更新履歴
 
+- 0.1.0: リリース
+
 ## License
 
 [Zlib License](LICENSE.txt)

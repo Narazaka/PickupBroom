@@ -1,6 +1,6 @@
 {
   "name": "net.narazaka.vrchat.pickup-broom",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "displayName": "Pickup Broom",
   "description": "ホウキやモップ、デッキブラシ等を持つギミック",
   "author": {
